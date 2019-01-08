@@ -1,2 +1,3 @@
-# Write your Operatig system
-From *https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M*
+# Write your operating system
+
+* from *https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M*
