@@ -1,3 +1,4 @@
+
 GCCPARAMS = -m32 -Iinclude -fno-use-cxa-atexit -nostdlib -fno-builtin -fno-rtti -fno-exceptions -fno-leading-underscore -Wno-write-strings
 ASPARAMS = --32
 LDPARAMS = -melf_i386
@@ -11,6 +12,7 @@ objects = obj/loader.o \
           obj/hardwarecommunication/pci.o \
           obj/drivers/keyboard.o \
           obj/drivers/mouse.o \
+          obj/drivers/vga.o \
           obj/kernel.o
 
 
